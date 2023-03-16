@@ -29,3 +29,10 @@ samples, guidance on mobile development, and a full API reference.
 - then hit the commanf 
   [Flutter run]
 
+
+![Final-UI](https://user-images.githubusercontent.com/54904567/225604151-66870f29-13a4-4a26-91d6-1f568697f105.png)
+
+
+https://user-images.githubusercontent.com/54904567/225604190-a1cd7ea5-5377-4ab0-b39b-2b180c1a037c.mp4
+
+
